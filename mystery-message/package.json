@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@react-email/components": "^0.0.33",
     "bcryptjs": "^3.0.2",
     "mongoose": "^8.10.0",
@@ -19,12 +18,6 @@
     "react-dom": "^19.0.0",
     "react-email": "^3.0.7",
     "resend": "^4.1.2",
-=======
-    "mongoose": "^8.10.0",
-    "next": "15.1.7",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
->>>>>>> 3fe75f2 (Connect db)
     "zod": "^3.24.2"
   },
   "devDependencies": {
